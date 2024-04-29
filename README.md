@@ -45,5 +45,5 @@ Engressei no CEFET-MG em 2022 no curso tenico em informática integrado, onde ob
 - #### conceitos SOLID
  
 # Contatos 
-- [linkedin](www.linkedin.com/in/fellipe-wallenberg-cardoso-gregorio-540825205)
+- [linkedin](https://www.linkedin.com/in/fellipe-wallenberg-cardoso-gregorio-540825205/)
 - fellipewalleberg1@gmail.com
