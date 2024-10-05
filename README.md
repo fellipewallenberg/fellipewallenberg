@@ -15,7 +15,8 @@ Ainda não possuo experiencia Profissional, busco estágio preferencialmente na 
 - pensamento crítico
 
 ## academicamente
-Engressei no CEFET-MG em 2022 no curso tenico em informática integrado, onde obtive minha formação do ensino medio e técnica.
+Iniciei meus estudos no CEFET-MG em 2022 no curso tenico em informática integrado, onde obtive minha formação do ensino medio e técnica.
+Em 2023 participei da Semana C&T, apresentando o projeto desenvolvido com Cristiano Amaral Maffort, envolvendo o metodo 300
 
 # Tecnologias
 <div>
