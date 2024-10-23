@@ -20,7 +20,6 @@ Em 2023 participei da Semana C&T, apresentando o projeto desenvolvido com Cristi
 
 # Tecnologias
 <div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
