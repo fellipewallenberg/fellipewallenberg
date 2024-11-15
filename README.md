@@ -1,7 +1,6 @@
 
 # Quem eu sou?
 Eu sou fellipe Wallenberg, nascido e criado em Minas Gerais, Brasil.
-Sou um grande apreciador de esportes⚽ e de tecnologias, de poucas festas, me considero um cara bem caseiro. 
 
 ## Profissional
 Ainda não possuo experiencia Profissional, busco estágio preferencialmente na área de desenvolvimento 
