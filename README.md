@@ -3,19 +3,18 @@
 Eu sou fellipe Wallenberg, nascido e criado em Minas Gerais, Brasil.
 
 ## Profissional
-Ainda não possuo experiencia Profissional, busco estágio preferencialmente na área de desenvolvimento 
+Ainda não possuo experiência Profissional, busco estágio preferencialmente na área de desenvolvimento.
 
 #### Soft-Skills
 - comunicação💬
 - trabalho em equipe👥
 - trabalho sobre pressão
 - aprendizado rápido🧠
-- liderança
 - pensamento crítico
 
 ## academicamente
-Iniciei meus estudos no CEFET-MG em 2022 no curso tenico em informática integrado, onde obtive minha formação do ensino medio e técnica.
-Em 2023 participei da Semana C&T, apresentando o projeto desenvolvido com Cristiano Amaral Maffort, envolvendo o metodo 300
+Iniciei meus estudos no CEFET-MG em 2022 no curso técnico em informática integrado, onde obtive minha formação do ensino médio e técnica.
+Em 2023 participei da Semana C&T, apresentando o projeto desenvolvido com Cristiano Amaral Maffort, envolvendo o método 300.
 
 # Tecnologias
 <div>
