@@ -20,7 +20,9 @@ Atualmente, busco **estágio na área de desenvolvimento**, onde posso aplicar m
 ## 🎓 Formação Acadêmica  
 Iniciei meus estudos no **CEFET-MG** em 2022, no curso **Técnico em Informática Integrado ao Ensino Médio**, onde obtive formação técnica e acadêmica.  
 
-- 📌 **2023**: Apresentei, durante a **Semana C&T**, o projeto desenvolvido com **Cristiano Amaral Maffort**, utilizando o **Método 300**.  
+- 📌 **2023**: Apresentei, durante a **Semana C&T**, o projeto desenvolvido com **Cristiano Amaral Maffort**, utilizando o **Método 300**.
+- - 📌 **2024**: Desenvolvi junto ao meu grupo de TCC o **HGMANAGER**.  
+
 
 ---
 
