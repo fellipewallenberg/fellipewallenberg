@@ -39,9 +39,7 @@ Iniciei meus estudos no **CEFET-MG** em 2022, no curso **Técnico em Informátic
 
 </div>  
 
-### 🛠️ Outros conhecimentos  
-- 🌐 **Machine Learning**  
-- ⚙️ **Conceitos SOLID**  
+ 
 
 ---
 
